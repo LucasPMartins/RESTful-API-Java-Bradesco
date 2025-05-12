@@ -1,7 +1,7 @@
 # Java RESTful API
 -- Java RESTful API criada no Bootcamp Bradesco - Java Cloud Native
 
-## Diagrama de Classes (Domínio da API)
+## Diagrama de Classes
 
 ```mermaid
 classDiagram
